@@ -49,8 +49,8 @@ Este repositório contém uma implementação didática de diferentes técnicas 
 
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITORIO]
-   cd [NOME_DO_REPOSITORIO]
+   git clone https://github.com/brenddonandrade/seminarQuantumComputation.git
+   cd seminarQuantumComputation/code
    ```
 
 2. Instale as dependências:
@@ -62,7 +62,7 @@ Este repositório contém uma implementação didática de diferentes técnicas 
    ```bash
    python code.py
    ```
-
+   
 ## Uso Educacional
 
 Este código foi desenvolvido para fins educacionais e de demonstração. Ele inclui vulnerabilidades intencionais (como exposição de chaves) para fins didáticos. Não utilize este código em ambientes de produção sem as devidas revisões de segurança.
